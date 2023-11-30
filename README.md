@@ -46,5 +46,6 @@ My name is Daniil, and I am a Junior Java Developer from Saint Petersburg, Russi
 
 ### CONTACTS
 
-* 🖇️ **LinkedIn**: [click](https://www.linkedin.com/in/daniil-martynov-java-developer/)
-* 📧 **e-mail**: DaniilDeFacto@yandex.ru
+* 🖇️ **LinkedIn:** [click](https://www.linkedin.com/in/daniil-martynov-java-developer/)
+* 📧 **E-mail:** DaniilDeFacto@yandex.ru
+* 💬 **Telegram:** [@DaniilDeFacto](https://telegram.me/DaniilDeFacto)
