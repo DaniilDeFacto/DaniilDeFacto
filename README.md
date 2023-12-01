@@ -1,12 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <img width="30%" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif"  />
+</div>
 
-My name is Daniil, and I am a Junior Java Developer from Saint Petersburg, Russia. Now I live in Tbilisi, Georgia. I am looking for a full-time job or internship in my field.
+<h3 align="center"> Hi there 👋, My name is Daniil, Welcome to my GitHub Profile<br/> </h3> 
+
+### 👨‍💻 About me:
+
+I am a Junior Java Developer from St. Petersburg, Russia. Currently I am living in Tbilisi, Georgia. I am engaged in reading professional literature and actively improving my skills. I am interested in the latest products in the field of Java and IT. I am **looking for a full-time job or internship** in my field.
 
 * 📝 **Education**: North-West Academy of Public Administration, Lawyer
 * 💻 **Courses**: Hexlet Programming School, Java Developer
 * 💼 **Experience**: I have a few educational projects that you can explore in my GitHub repositories
 
-### SKILLS
+### ✨ Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,38 +20,29 @@ My name is Daniil, and I am a Junior Java Developer from Saint Petersburg, Russi
   </a>
 </p>
 
-**Applied**:
+### 🖥 Applied:
+
 * Java Core, Java Collections Framework
 * Javalin Framework
 * Test Automation by JUnit5
 * HTML, CSS (basics)
 * Work with Git, GitHub, building projects with Gradle
 * Bash
+* CI/CD (GitHub Action)
 
-**Fundamental**:
+### 🏫 Fundamental:
+
 * OOP and SOLID principles
 * Test-Driven Development (TDD)
 * Refactoring
 * Work with data bases, SQL
 
-### PROJECTS
+### 📄 Links:
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-61&theme=github_dark#gh-dark-mode-only)](https://github.com/DaniilDeFacto/java-project-61#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-61&theme=default_repocard#gh-light-mode-only)](https://github.com/DaniilDeFacto/java-project-61#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-71&theme=github_dark#gh-dark-mode-only)](https://github.com/DaniilDeFacto/java-project-71#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-71&theme=default_repocard#gh-light-mode-only)](https://github.com/DaniilDeFacto/java-project-71#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-78&theme=github_dark#gh-dark-mode-only)](https://github.com/DaniilDeFacto/java-project-78#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-78&theme=default_repocard#gh-light-mode-only)](https://github.com/DaniilDeFacto/java-project-78#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-72&theme=github_dark#gh-dark-mode-only)](https://github.com/DaniilDeFacto/java-project-72#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DaniilDeFacto&repo=java-project-72&theme=default_repocard#gh-light-mode-only)](https://github.com/DaniilDeFacto/java-project-72#gh-light-mode-only)
-
-### LINKS
 * [My Habr profile](https://career.habr.com/daniildefacto)
 * [My Hexlet account](https://ru.hexlet.io/u/daniildefacto)
 * [My CV (russian)](https://cv.hexlet.io/ru/resumes/3102)
 
-### CONTACTS
+### ☎️ Contacts:
 
-* 🖇️ **LinkedIn:** [click](https://www.linkedin.com/in/daniil-martynov-java-developer/)
-* 📧 **E-mail:** DaniilDeFacto@yandex.ru
-* 💬 **Telegram:** [@DaniilDeFacto](https://telegram.me/DaniilDeFacto)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-martynov-java-developer/) [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:defactodaniil@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/DaniilDeFacto)
