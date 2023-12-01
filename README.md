@@ -1,5 +1,5 @@
-<div align="center">
-  <img width="30%" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif"  />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJuOXlvM25ldGVqejM1ajlvc21zb2YzcW1sMHlnanF5MmptYXl0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 <h3 align="center"> Hi there 👋, My name is Daniil, Welcome to my GitHub Profile<br/> </h3> 
@@ -46,3 +46,7 @@ I am a Junior Java Developer from St. Petersburg, Russia. Currently I am living 
 ### ☎️ Contacts:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-martynov-java-developer/) [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:defactodaniil@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/DaniilDeFacto)
+
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=DaniilDeFacto&style=flat-square&color=blue" alt=""/>
+  </div>
