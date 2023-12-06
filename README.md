@@ -37,6 +37,10 @@ I am a Junior Java Developer from St. Petersburg, Russia. Currently I am living 
 * Refactoring
 * Work with data bases, SQL
 
+### ⚔ Codewars:
+
+[![codewars](https://www.codewars.com/users/DaniilDeFacto/badges/large)](https://www.codewars.com/users/DaniilDeFacto/badges/large)
+
 ### 📄 Links:
 
 * [My Habr profile](https://career.habr.com/daniildefacto)
