@@ -16,14 +16,14 @@ I am a Junior Java Developer from St. Petersburg, Russia. Currently I am living 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,gradle,git,github,postgres,bash,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,github,postgres,bash,html,css" />
   </a>
 </p>
 
 ### 🖥 Applied:
 
 * Java Core, Java Collections Framework
-* Javalin Framework
+* Spring Boot, Javalin Frameworks
 * Test Automation by JUnit5
 * HTML, CSS (basics)
 * Work with Git, GitHub, building projects with Gradle
