@@ -25,17 +25,16 @@ I am a Junior Java Developer from St. Petersburg, Russia. Currently I am living 
 * Java Core, Java Collections Framework
 * Spring Boot, Javalin Frameworks
 * Test Automation by JUnit5
+* Work with Git, GitHub, CI/CD (GitHub Action)
+* Bash, building projects with Gradle
 * HTML, CSS (basics)
-* Work with Git, GitHub, building projects with Gradle
-* Bash
-* CI/CD (GitHub Action)
 
 ### 🏫 Fundamental:
 
 * OOP and SOLID principles
 * Test-Driven Development (TDD)
-* Refactoring
 * Work with data bases, SQL
+* Refactoring
 
 ### ⚔ Codewars:
 
