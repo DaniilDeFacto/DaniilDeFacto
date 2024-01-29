@@ -16,7 +16,7 @@ I am a Junior Java Developer from St. Petersburg, Russia. Currently I am living 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,github,postgres,bash,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,github,postgres,hibernate,bash,docker,html,css,postman" />
   </a>
 </p>
 
