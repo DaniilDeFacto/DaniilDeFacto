@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Junior Java Developer from St. Petersburg, Russia. Currently I am living in Tbilisi, Georgia. I am engaged in reading professional literature and actively improving my skills. I am interested in the latest products in the field of Java and IT. I am **looking for a full-time job or internship** in my field.
+I am a **Java developer**. Currently I am improving my professional knowledge. I attend additional courses and trainings, read educational literature, study language documentation, solve problems related to algorithms and data structures. **I am looking for a job**.
 
 * 📝 **Education**: North-West Academy of Public Administration, Lawyer
 * 💻 **Courses**: Hexlet Programming School, Java Developer
