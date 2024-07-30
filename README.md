@@ -36,16 +36,6 @@ I am a **Java developer**. Currently I am improving my professional knowledge. I
 * Work with data bases, SQL
 * Refactoring
 
-### ⚔ Codewars:
-
-[![codewars](https://www.codewars.com/users/DaniilDeFacto/badges/large)](https://www.codewars.com/users/DaniilDeFacto/badges/large)
-
-### 📄 Links:
-
-* [My Habr profile](https://career.habr.com/daniildefacto)
-* [My Hexlet account](https://ru.hexlet.io/u/daniildefacto)
-* [My CV (russian)](https://cv.hexlet.io/ru/resumes/3102)
-
 ### ☎️ Contacts:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-martynov-java-developer/) [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:defactodaniil@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/DaniilDeFacto)
