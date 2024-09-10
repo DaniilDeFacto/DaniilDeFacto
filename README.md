@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 
-I am a **Java developer**. Currently I am improving my professional knowledge. I attend additional courses and trainings, read educational literature, study language documentation, solve problems related to algorithms and data structures. **I am looking for a job**.
+I am a **Java developer**. Currently I am improving my professional knowledge. I attend additional courses and trainings, read educational literature, study language documentation, solve problems related to algorithms and data structures.
 
 * 📝 **Education**: North-West Academy of Public Administration, Lawyer
 * 💻 **Courses**: Hexlet Programming School, Java Developer
